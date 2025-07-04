@@ -64,10 +64,12 @@ AuraPrime is a feature-rich and modular Discord bot written in Python. It includ
 |---------|-------------|
 | `prefix` | Displays or changes the command prefix. |
 
-### 🧪 Rules (Owner-only)
+### 🧪 Owner-only
 | Command | Description |
 |---------|-------------|
 | `test` | Test command for bot owners only. |
+|---------|-------------|
+| `serverinfo` | To show the list of servers the bot is in. |
 
 ### 🏠 Server Info
 | Command | Description |
