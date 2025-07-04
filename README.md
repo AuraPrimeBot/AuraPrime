@@ -98,8 +98,6 @@ AuraPrime is a feature-rich and modular Discord bot written in Python. It includ
 - 🔗 [Invite AuraPrime](https://discord.com/oauth2/authorize?client_id=1316827072655523911)
 - 💬 [Join Support Server](https://discord.gg/EUfPFvySjw)
 
-> Replace the links above with your actual bot/client ID and server invite
-
 ---
 
 ## 🧪 Setup & Run Locally
